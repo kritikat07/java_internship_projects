@@ -14,4 +14,5 @@ Clone the repository.
 bash   git clone https://github.com/kritikat07/java-programs.git
 Open in IntelliJ IDEA
 Navigate to any .java file
+and then
 Right-click → Run.
